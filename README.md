@@ -1,7 +1,7 @@
-<h1> Projetos de cursos da alura </h1>
+<h1> Projetos Curso Alura feita no p5</h1>
 
-> Cursos em andamento
+> Projeto concluido
 
 ```
-node pong.js
+Lembrando que arquivos de audio estão dentro da pasta zip.
 ```
