@@ -1,4 +1,4 @@
-<h1> Projetos Curso Alura feita no p5</h1>
+<h1> Projeto Curso Alura feita no p5</h1>
 
 > Projeto concluido
 
